@@ -1,23 +1,25 @@
 {
-  "devFiles": [
-    "static/development/dll/dll_0a5735af42686c2a38b2.js"
-  ],
+  "devFiles": [],
   "pages": {
     "/_app": [
       "static/runtime/webpack.js",
-      "static/runtime/main.js"
+      "static/runtime/main.js",
+      "static/webpack/static/runtime/main.js.46ec05fb23687378a4a5.hot-update.js"
     ],
     "/_error": [
       "static/runtime/webpack.js",
-      "static/runtime/main.js"
+      "static/runtime/main.js",
+      "static/webpack/static/runtime/main.js.46ec05fb23687378a4a5.hot-update.js"
     ],
     "/index": [
       "static/runtime/webpack.js",
-      "static/runtime/main.js"
+      "static/runtime/main.js",
+      "static/webpack/static/runtime/main.js.46ec05fb23687378a4a5.hot-update.js"
     ],
     "/": [
       "static/runtime/webpack.js",
-      "static/runtime/main.js"
+      "static/runtime/main.js",
+      "static/webpack/static/runtime/main.js.46ec05fb23687378a4a5.hot-update.js"
     ]
   }
 }
